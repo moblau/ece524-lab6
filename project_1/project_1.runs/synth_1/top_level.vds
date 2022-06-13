@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Oct 31 09:35:28 2021
+# Process ID: 19240
+# Current directory: C:/Users/Morris/Documents/Fall 21/ECE 524/lab/lab6/fa21-e524-lab-assignment6-group-2/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log top_level.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_level.tcl
+# Log file: C:/Users/Morris/Documents/Fall 21/ECE 524/lab/lab6/fa21-e524-lab-assignment6-group-2/project_1/project_1.runs/synth_1/top_level.vds
+# Journal file: C:/Users/Morris/Documents/Fall 21/ECE 524/lab/lab6/fa21-e524-lab-assignment6-group-2/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+INFO: [Common 17-1460] Use of init.tcl in C:/Users/Morris/AppData/Roaming/Xilinx/Vivado/init.tcl is deprecated. Please use Vivado_init.tcl 
+Sourcing tcl script 'C:/Users/Morris/AppData/Roaming/Xilinx/Vivado/init.tcl'
+source top_level.tcl -notrace
+create_project: Time (s): cpu = 00:00:11 ; elapsed = 00:00:15 . Memory (MB): peak = 649.598 ; gain = 361.078
+ERROR: [Vivado 12-172] File or Directory 'C:/Users/Morris/Documents/Fall 21/ECE 524/lab/lab6/fa21-e524-lab-assignment6-group-2/code/image_data_1_3.coe' does not exist
+INFO: [Common 17-206] Exiting Vivado at Sun Oct 31 09:35:49 2021...
